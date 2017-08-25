@@ -33,4 +33,15 @@ p {
 
 body {
     background-color: #a1c0ed;
+    text-align: left;
+}
+
+img {
+  float: right;
+  width: 250px;
+  margin: 10px;
+  border-color: #1dc90a;
+border-width: 4px;
+  border-style: solid;
+  border-radius: 5px;
 }
