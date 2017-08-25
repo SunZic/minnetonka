@@ -45,3 +45,9 @@ border-width: 4px;
   border-style: solid;
   border-radius: 5px;
 }
+
+h1 {
+   color: red;
+   font-family: monospace;
+}
+
