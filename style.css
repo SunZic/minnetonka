@@ -71,5 +71,8 @@ h4 {
     margin-top: -40%
 }
 
-text-wrapper 
+text-wrapper h3{
+    text-align: center;
+    color: #ff0000;
+}
 
