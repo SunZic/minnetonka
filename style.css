@@ -41,7 +41,7 @@ img {
   width: 600px;
   margin: 10px;
   border-color: #1dc90a;
-border-width: 4px;
+  border-width: 4px;
   border-style: solid;
   border-radius: 5px;
 }
@@ -53,5 +53,5 @@ h1 {
 
 h4 {
    color: #f900dc;
-font-family: 'Baloo Bhaijaan', cursive;
+   font-family: 'Baloo Bhaijaan', cursive;
 }
